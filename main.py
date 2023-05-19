@@ -26,4 +26,4 @@ for index, box in enumerate(checkBox):
 st.text_input(label='type', on_change=Add_tod, placeholder='Add new Todo...',
               key='input_todo', )
 
-st.session_state
+
